@@ -1,0 +1,6 @@
+valor1 = float(input("Digite o primeiro número: "))
+valor2 = float(input("Digite o segundo número: "))
+valor3 = float(input("Digite o terceiro número: "))
+valor4 = float(input("Digite o quarto número: "))
+valor5 = float(input("Digite o quinto número: "))
+print ((valor1+valor2+valor3+valor4+valor5)/2)
