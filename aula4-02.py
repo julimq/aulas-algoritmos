@@ -1,4 +1,4 @@
-SALARIO_INICIAL = float(input("Seu salário inical: "))
+SALARIO_INICIAL = float(input("Seu salário inicial: "))
 ANO_INICIAL = 2005
 ANO_ATUAL = 2023
 
